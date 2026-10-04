@@ -1,0 +1,51 @@
+https://github.com/perryvegehan/padho_with_pratyush_Ai_Enginner/tree/main
+
+
+💼 Job Title: Junior AI Engineer
+
+Company: TalentTech Solutions
+Experience: Fresher / 0–2 Years
+Employment Type: Full-Time
+
+About the Role
+
+We are looking for a motivated and passionate Junior AI Engineer to join our team. The ideal candidate should have a strong foundation in Python, problem-solving, machine learning concepts, and backend development.
+
+You will work on building AI-powered applications, integrating Large Language Models (LLMs), developing APIs, processing structured and unstructured data, and deploying AI applications.
+
+🛠 Required Skills
+Python
+Data Structures and Algorithms
+Machine Learning fundamentals
+REST APIs
+Git and GitHub
+SQL or NoSQL databases
+Basic understanding of Large Language Models (LLMs)
+Problem-solving skills
+⭐ Preferred Skills
+FastAPI
+LangChain
+Retrieval-Augmented Generation (RAG)
+Vector Databases
+Docker
+Cloud platforms such as AWS or Google Cloud
+Experience with Groq, OpenAI, or Gemini APIs
+Streamlit
+Experience building full-stack applications
+Knowledge of Node.js or React
+Experience deploying applications
+💼 Responsibilities
+Build and develop AI-powered applications.
+Work with Large Language Models (LLMs) and AI APIs.
+Develop backend APIs for AI applications.
+Work with structured and unstructured data.
+Build basic Retrieval-Augmented Generation (RAG) applications.
+Integrate AI models with web applications.
+Collaborate with developers to deploy AI applications.
+Write clean, maintainable, and efficient code.
+🎓 Education Requirements
+Bachelor's degree in Computer Science, Information Technology, Artificial Intelligence, or a related field.
+Fresh graduates and final-year students are encouraged to apply.
+📈 Experience
+
+0–2 years of experience in software development, AI/ML projects, backend development, or relevant academic/personal projects.
